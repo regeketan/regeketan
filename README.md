@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ketan Rege
-- 👀 I’m interested in DataScience and coding skills.
+- 👀 I’m interested in DataScience and related coding skills.
 - 🌱 I have a good command on Python and data manupulatin in python.
 - 💞️ I am currently learning Machine learning and its basics along with Tableau and excel.
 - 📫 You can reach me on my mail id i.e Ketan.rege.ofc@gmail.com
